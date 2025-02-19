@@ -11,8 +11,7 @@ To begin, clone the repository, install required dependencies, and start experim
     > git clone https://github.com/ben-cuff/numerical-finance-llm.git
 2. Navigate to the project directory:
     > cd numerical-finance-llm
-3. Install the dependencies:
-    > pip install -r requirements.txt
+3. Install all dependencies
 4. Create a .env file
 
 ## Environment Configuration
