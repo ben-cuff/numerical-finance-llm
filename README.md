@@ -21,7 +21,7 @@ To begin, clone the repository, install required dependencies, and start experim
 ## Environment Configuration
     Create a .env file in the project root to manage environment variables. For example, add the following content:
 
-    ```.env
+    ```txt
     OPENAI_API_KEY=your_api_key_here
     DEEPSEEK_API_KEY=your_api_key_here
     ```
