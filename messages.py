@@ -100,3 +100,66 @@ messages_list = [
         "answer": 5122.28,
     },
 ]
+
+messages_list = [
+    {
+        "role": "user",
+        "content": "Assume a fixed rate mortgage (FRM) loan is made in an amount of $60,000 at a 6 percent (nominal) rate of interest for 30 years with fees equal to 3% of the loan. The borrower prepays after 5 years. What is the borrower&#39;s effective cost on this loan?",
+        "answer": 6.7,
+    },
+    {
+        "role": "user",
+        "content": "Ten years ago, you put $150,000 into an interest-earning account. Today it is worth $275,000. What is the effective annual interest earned on the account?",
+        "answer": 6.25,
+    },
+    {
+        "role": "user",
+        "content": "At the end of 8 years, your friend wants to have $50,000 saved for a down payment on a house. He expects to earn 8%—compounded monthly—on his investments over the next 8 years. How much would your friend have to put in his investment account each month to reach his goal?",
+        "answer": 374,
+    },
+    {
+        "role": "user",
+        "content": "A tenant signs a 7-year lease, paying $2,500 per month in advance (at the beginning of each month). If the nominal annual interest rate is 9% (compounded monthly), what is the present value of the lease?",
+        "answer": 156550,
+    },
+    {
+        "role": "user",
+        "content": "A borrower has a 30-year mortgage loan for $200,000 with an interest rate of 6% and the origination fee is $2,700. If she wants to pay off the loan after 8 years, what would be the outstanding balance on the loan?",
+        "answer": 175545,
+    },
+    {
+        "role": "user",
+        "content": "A borrower takes out a 30-year, $100,000 mortgage with a 6% interest rate and 4 discount points. Additionally, the borrower incurs a $1,000 fee to third parties. What is the lenders effective yield on the loan if it is held for the full 30 years?",
+        "answer": 6.4,
+    },
+    {
+        "role": "user",
+        "content": "A mortgage was made 10 years ago for $140,000 at 10.5% for a 30 year term. Rates are currently 9.25%. What is the market value of the loan?",
+        "answer": 139828,
+    },
+    {
+        "role": "user",
+        "content": "A $120,000, 9% annual rate, 30-year mortgage has 2 points and a 5% prepayment penalty on the remaining loan balance. If the borrower prepays after 7 years, what is the effective yield?",
+        "answer": 9.88,
+    },
+    {
+        "role": "user",
+        "content": "Consider a 20-year (monthly-payment), 8%, fully amortizing, $80,000 mortgage with 2 points. What is the effective yield if the borrower does not prepay?",
+        "answer": 8.27,
+    },
+    {
+        "role": "user",
+        "content": "Consider a 20-year (monthly-payment), 8%, fully amortizing, $80,000 mortgage with 2 points. What is the &quot;effective interest rate&quot; or yield over the borrower’s expected holding period if the borrower expects to hold the loan for 12 years?",
+        "answer": 8.31,
+    },
+    {
+        "role": "user",
+        "content": "A $1,000,000, 12% annual interest rate, 20-year mortgage requires monthly payments. What is the remaining loan balance after the first payment?",
+        "answer": 998989.14,
+    },
+    {
+        "role": "user",
+        "content": "Walt is evaluating an investment that will provide the following returns at the end of each of the following years: year 1, $12,500; year 2, $10,000; year 3, $7,500; year 4, $5,000; year 5, $2,500; year 6, $0; and year 7, $12,500. Walt believes that he should earn 12 percent compounded annually on this investment. How much should he pay for this investment?",
+        "answer": 34722,
+    },
+]
