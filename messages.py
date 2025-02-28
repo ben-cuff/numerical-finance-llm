@@ -163,3 +163,71 @@ messages_list = [
         "answer": 34722,
     },
 ]
+
+messages_list = [
+    {
+        "role": "user",
+        "content": "John wants to buy a property for $105,000 and wants an 80 percent loan for $84,000. A lender indicates that a fully amortizing loan can be obtained for 30 years (360 months) at 6 percent interest; however, a loan fee of $3,500 will also be necessary for John to obtain the loan. How much will the lender actually disburse at closing?",
+        "answer": 80500,
+    },
+    {
+        "role": "user",
+        "content": "John wants to buy a property for $105,000 and wants an 80 percent loan for $84,000. A lender indicates that a fully amortizing loan can be obtained for 30 years (360 months) at 6 percent interest; however, a loan fee of $3,500 will also be necessary for John to obtain the loan. What is the APR for the borrower, assuming that the mortgage is paid off after 30 years (full term)?",
+        "answer": 6.4,
+    },
+    {
+        "role": "user",
+        "content": "John wants to buy a property for $105,000 and wants an 80 percent loan for $84,000. A lender indicates that a fully amortizing loan can be obtained for 30 years (360 months) at 6 percent interest; however, a loan fee of $3,500 will also be necessary for John to obtain the loan. If John pays off the loan after five years, what is the effective interest rate?",
+        "answer": 7.02,
+    },
+    {
+        "role": "user",
+        "content": "John wants to buy a property for $105,000 and wants an 80 percent loan for $84,000. A lender indicates that a fully amortizing loan can be obtained for 30 years (360 months) at 6 percent interest; however, a loan fee of $3,500 will also be necessary for John to obtain the loan. Assume the lender also imposes a prepayment penalty of 2 percent of the outstanding loan balance if the loan is repaid within eight years of closing. If John repays the loan after five years with the prepayment penalty, what is the effective interest rate?",
+        "answer": 7.35,
+    },
+    {
+        "role": "user",
+        "content": "John wants to buy a property for $105,000 and wants an 80 percent loan for $84,000. A lender indicates that a fully amortizing loan can be obtained for 30 years (360 months) at 6 percent interest; however, a loan fee of $3,500 will also be necessary for John to obtain the loan. Our borrower, John, in problem 13 wants to 'roll in' or finance the loan fee of $3,500 into the loan amount which would make the loan $87,500. How much will the lender actually disburse at closing?",
+        "answer": 84000,
+    },
+    {
+        "role": "user",
+        "content": "John wants to buy a property for $105,000 and wants an 80 percent loan for $84,000. A lender indicates that a fully amortizing loan can be obtained for 30 years (360 months) at 6 percent interest; however, a loan fee of $3,500 will also be necessary for John to obtain the loan. Our borrower, John, in problem 13 wants to 'roll in' or finance the loan fee of $3,500 into the loan amount which would make the loan $87,500. What is the APR for the borrower, assuming that the mortgage is paid off after 30 years (full term)?",
+        "answer": 6.39,
+    },
+    {
+        "role": "user",
+        "content": "John wants to buy a property for $105,000 and wants an 80 percent loan for $84,000. A lender indicates that a fully amortizing loan can be obtained for 30 years (360 months) at 6 percent interest; however, a loan fee of $3,500 will also be necessary for John to obtain the loan. Our borrower, John, in problem 13 wants to 'roll in' or finance the loan fee of $3,500 into the loan amount which would make the loan $87,500. If John pays off the loan after five years, what is the effective interest rate?",
+        "answer": 6.98,
+    },
+    {
+        "role": "user",
+        "content": "John wants to buy a property for $105,000 and wants an 80 percent loan for $84,000. A lender indicates that a fully amortizing loan can be obtained for 30 years (360 months) at 6 percent interest; however, a loan fee of $3,500 will also be necessary for John to obtain the loan. Our borrower, John, in problem 13 wants to 'roll in' or finance the loan fee of $3,500 into the loan amount which would make the loan $87,500. Assume the lender also imposes a prepayment penalty of 2 percent of the outstanding loan balance if the loan is repaid within eight years of closing. If John repays the loan after five years with the prepayment penalty, what is the effective interest rate?",
+        "answer": 7.31,
+    },
+    {
+        "role": "user",
+        "content": " A borrower is faced with choosing between two loans. Loan A is available for $75,000 at 6 percent interest for 30 years, with 6 points to be included in closing costs. Loan B would be made for the same amount, but for 7 percent interest for 30 years, with 2 points to be included in the closing costs. Both loans will be fully amortizing. If the loan is repaid after 20 years, what is the effective interest rate of loan A?",
+        "answer": 6.63,
+    },
+    {
+        "role": "user",
+        "content": " A borrower is faced with choosing between two loans. Loan A is available for $75,000 at 6 percent interest for 30 years, with 6 points to be included in closing costs. Loan B would be made for the same amount, but for 7 percent interest for 30 years, with 2 points to be included in the closing costs. Both loans will be fully amortizing. If the loan is repaid after 20 years, what is the effective interest rate of loan B?",
+        "answer": 7.21,
+    },
+    {
+        "role": "user",
+        "content": " A borrower is faced with choosing between two loans. Loan A is available for $75,000 at 6 percent interest for 30 years, with 6 points to be included in closing costs. Loan B would be made for the same amount, but for 7 percent interest for 30 years, with 2 points to be included in the closing costs. Both loans will be fully amortizing. If the loan is repaid after 5 years, what is the effective interest rate of loan A.",
+        "answer": 7.49,
+    },
+    {
+        "role": "user",
+        "content": " A borrower is faced with choosing between two loans. Loan A is available for $75,000 at 6 percent interest for 30 years, with 6 points to be included in closing costs. Loan B would be made for the same amount, but for 7 percent interest for 30 years, with 2 points to be included in the closing costs. Both loans will be fully amortizing. If the loan is repaid after 5 years, what is the effective interest rate of loan B.",
+        "answer": 7.49,
+    },
+    # {
+    #     "role": "user",
+    #     "content": "",
+    #     "answer": ,
+    # },
+]
